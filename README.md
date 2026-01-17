@@ -2,8 +2,8 @@
 
 [![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=postgresql)](https://github.com/mohitkumar7-123)
 [![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel)](https://github.com/mohitkumar7-123)
-[![Power BI](https://img.shields.io/badge/PowerBI-Learning-yellow?style=for-the-badge&logo=powerbi)](https://github.com/mohitkumar7-123)
-[![Python](https://img.shields.io/badge/Python-Basic-blue?style=for-the-badge&logo=python)](https://github.com/mohitkumar7-123)
+[![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)](https://github.com/mohitkumar7-123)
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://github.com/mohitkumar7-123)
 
 ## 💼 About Me
 
